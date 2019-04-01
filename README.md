@@ -66,7 +66,7 @@ browsers, you don't have to worry about specifying the value unless you want to
 change it. This value can be many things (including `none`, which hides the
 elements), but the default value for most elements is either
 [`block`][html-block-elements] or [`inline`][html-inline-elements]. For the
-images above, the value is `inline`. 
+images above, the value is `inline`.
 
 ## Instructions
 
